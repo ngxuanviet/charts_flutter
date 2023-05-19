@@ -14,7 +14,7 @@ dependencies:
   # The pub version of charts_flutter will point to the pub version of charts_common.
   # The latest pub version is commented out and shown below as an example.
   charts_common:
-      git:
+    git:
       url: https://github.com/ngxuanviet/charts_flutter.git
       ref: master
       path: charts_common
